@@ -9,7 +9,7 @@ Check the [wiki](https://github.com/kercre123/victor/wiki) for more information 
 
 ## Changes
 
-- The wiki includes a list of changes I made: [Changes I Made](https://github.com/kercre123/victor/wiki/Changes-I-Made)
+- I've made and am making general changes to make Vector have more colorful animations.
 
 ## Building (Linux)
 
@@ -19,7 +19,7 @@ Check the [wiki](https://github.com/kercre123/victor/wiki) for more information 
 
 ```
 cd ~
-git clone --recurse-submodules https://github.com/kercre123/victor -b snowboy
+git clone --recurse-submodules https://github.com/gamingtimevr/victor -b RainbOS
 cd victor
 git lfs install
 git lfs pull
@@ -52,7 +52,7 @@ cd ~/victor
 
 ```
 cd ~
-git clone --recurse-submodules https://github.com/kercre123/victor -b snowboy
+git clone --recurse-submodules https://github.com/gamingtimevr/victor -b RainbOS
 cd victor
 git lfs install
 git lfs pull
@@ -95,7 +95,7 @@ cd ~/victor
 1. Echo your robot's IP address to robot_ip.txt (in the root of the victor repo):
 
 ```
-echo 192.168.1.150 > robot_ip.txt
+echo 192.168.1.18 > robot_ip.txt
 ```
 
 2. Copy your bot's SSH key to a file called `robot_sshkey` in the root of this repo.

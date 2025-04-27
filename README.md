@@ -11,7 +11,7 @@ Check the [wiki](https://github.com/kercre123/victor/wiki) for more information 
 
 - I've made and am making general changes to make Vector have more colorful animations.
 
-## Building (Linux)
+## Building (Linux or WSL)
 
  - Prereqs: Make sure you have `docker` and `git-lfs` installed.
 
